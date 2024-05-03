@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "code": "abc123",
+      "title": "Queso",
+      "description": "Fiambre de vaca",
+      "price": 100,
+      "thumbnail": "pipumpam",
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "code": "abc456",
+      "title": "producto prueba",
+      "description": "Este es un producto prueba",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "stock": 25
+    },
+    {
+      "id": 3,
+      "code": "abc789",
+      "title": "producto prueba",
+      "description": "Este es un producto prueba",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "stock": 30
+    },  
+    {
+      "id": 4,
+      "code": "abc101",
+      "title": "producto prueba",
+      "description": "Este es un producto prueba",
+      "price": 400,
+      "thumbnail": "Sin imagen",
+      "stock": 35
+    },
+    {
+      "id": 5,
+      "code": "abc102",
+      "title": "producto prueba",
+      "description": "Este es un producto prueba",
+      "price": 500,
+      "thumbnail": "Sin imagen",
+      "stock": 40
+    }     

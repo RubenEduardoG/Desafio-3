@@ -1,0 +1,17 @@
+{
+  "name": "servidoresexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "express": "^4.19.2",
+    "moment": "^2.30.1"
+  }
+}
